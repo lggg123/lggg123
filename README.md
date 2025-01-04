@@ -1,7 +1,3 @@
-# George Lugo
-
-![George Lugo](https://raw.githubusercontent.com/lggg123/lggg123.github.io/main/22415259.jpeg)
-
 ## About Me
 
 I'm a software developer with 5 years of experience in PHP, Ruby on Rails, ReactJS, and VueJS. Over the past two years, I've been focusing on NextJS, TailwindCSS, React Native, Solidity, TypeScript, NodeJS (Serverless Functions), Golang, and Rust. This year, I've completed my studies in Machine Learning, LLMs, and Artificial Intelligence, with ongoing research in these areas.
