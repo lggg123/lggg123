@@ -1,6 +1,6 @@
 # George Lugo
 
-![George Lugo]([https://github.com](https://raw.githubusercontent.com/lggg123/lggg123.github.io/main/22415259.jpeg)
+![George Lugo](https://raw.githubusercontent.com/lggg123/lggg123.github.io/main/22415259.jpeg)
 
 ## About Me
 
