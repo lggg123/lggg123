@@ -18,7 +18,7 @@ I'm a software developer with 5 years of experience in PHP, Ruby on Rails, React
 ## Research
 
 ### Machine Learning and AI
-- **Ongoing Research:** Exploring the application of LLMs in natural language processing.
+- **Ongoing Research:** Exploring the application of LLMs in natural language processing, AI Agent Workflow, and Reasoning using Monte Carlo Algorithms.
 - **Publications:** [Research Paper](Coming Soon!)
 
 ## Contact
